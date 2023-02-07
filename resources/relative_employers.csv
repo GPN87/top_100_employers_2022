@@ -1,0 +1,71 @@
+RANK,NAME,TICKER,INDUSTRIES,Country,EMPLOYEES,Glassdoor Rating,City,1 year stock performance,return on equity,Analyst Recommendation Mean,Operating Income,Operating income per employee,MSCI SECTOR,Sector perf,RELATIVE STOCK PERF,,,,,,,,,
+1,Samsung Electronics,005930.KS,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",South Kore,266673,3.8,Suwon,-22.34,13.29,1.8,9.09439E+13,341031566,MSCI World Semiconductors and Semiconductor Equipment É,-36.44,14.1,,,,,,,,,
+2,Microsoft,MSFT,"IT, Internet, Software & Services",United States,221000,4.4,Redmond,-22.65,42.88,1.8,98841001984,447244,MSCI World Information Technology Index,-30.79,8.14,,,,,,,,,
+3,IBM,IBM,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,250000,4.2,Armonk,7.79,6.48,2.5,12010000384,48040,MSCI World Semiconductors and Semiconductor Equipment É,-36.44,44.23,,,,,,,FORBES SECTOR,,
+4,Alphabet,GOOG,"IT, Internet, Software & Services",United States,156500,4.5,Mountain View,-33.69,26.89,1.5,93733003264,598932,MSCI World Information Technology Index,-30.79,-2.9,,,,,,,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",MSCI World Semiconductors and Semiconductor Equipment É,-36.44
+5,Apple,AAPL,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,154000,4.1,Cupertino,-22.48,175.46,2,1.30541E+11,847668,MSCI World Semiconductors and Semiconductor Equipment É,-36.44,13.96,,,,,,,"IT, Internet, Software & Services",MSCI World Information Technology Index,-30.79
+6,Delta Air Lines,DAL,Transportation and Logistics,United States,80000,4.2,Atlanta,-7.93,2.25,1.7,4472000000,55900,MSCI World Transportation Index,-17.06,9.13,,,,,,,Transportation and Logistics,MSCI World Transportation Index,-17.06
+7,Costco Wholesale,COST,Retail and Wholesale,United States,288000,4,Issaquah,-6.3,29.32,2.1,9648000000,33500,MSCI World Food & Staples Retailing Index,-11.53,5.23,,,,,,,Retail and Wholesale,MSCI World Food & Staples Retailing Index,-11.53
+8,Adobe,ADBE,"IT, Internet, Software & Services",United States,25988,4.4,San Jose,-33.66,32.97,2.3,6952666624,267533,MSCI World Information Technology Index,-30.79,-2.87,,,,,,,"Clothing, Shoes, Sports Equipment",MSCI World Consumer Durables & Apparel,-26.29
+9,Southwest Airlines,LUV,Transportation and Logistics,United States,55093,4.4,Dallas,-21.45,7.81,2.1,2719000064,49352,MSCI World Transportation Index,-17.06,-4.39,,,,,,,Automotive (Automotive and Suppliers),MSCI World Automobiles Index,-48.96
+10,Dell Technologies,DELL,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,133000,4.3,Round Rock,-32.24,33.01,2.1,9059999744,68120,MSCI World Semiconductors and Semiconductor Equipment É,-36.44,4.2,,,,,,,Drugs & Biotechnology,"MSCI World Pharmaceuticals, Biotechnology and Life Sciences Index",-0.61
+11,Lockheed Martin,LMT,Aerospace & Defense,United States,114000,4.1,Bethesda,26.79,54.35,2.7,8622999552,75640,MSCI World Aerospace and Defense Index,12.86,13.93,,,,,,,"Engineering, Manufacturing",MSCI World Industrials Index,-13.2
+12,Cisco Systems,CSCO,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,79500,4.3,San Jose,-19.98,27.73,2.5,15861999616,199522,MSCI World Semiconductors and Semiconductor Equipment É,-36.44,16.46,,,,,,,Conglomerate,MSCI World Index,-17.73
+13,BMW Group,BMW.DE,Automotive (Automotive and Suppliers),Germany,118909,4.2,Munich,-7.31,22.69,2.3,19114999808,160753,MSCI World Automobiles Index,-48.96,41.65,,,,,,,Travel & Leisure   ,"MSCI World Hotels, Restaurants and Leisure Index",-15.27
+14,Amazon,AMZN,"IT, Internet, Software & Services",United States,1608000,3.8,Seattle,-41.02,8.78,1.8,51548999680,32057,MSCI World Information Technology Index,-30.79,-10.23,,,,,,,Packaged Goods,MSCI World Consumer Staples Index,-6.13
+16,Adidas,ADS.DE,"Clothing, Shoes, Sports Equipment",Germany,61401,3.9,Herzogenaurach,-43.58,11.82,2.7,2008999936,32719,MSCI World Consumer Durables & Apparel,-26.29,-17.29,,,,,,,Banking and Financial Services,MSCI ACWI Financials Index,-9.23
+17,AIRBUS,AIR.PA,Aerospace & Defense,Netherlands,125000,4,Toulouse,-2.9,53.48,1.8,6695000064,53560,MSCI World Aerospace and Defense Index,12.86,-15.76,,,,,,,"Construction, Oil & Gas Operations, Mining and Chemicals",MSCI World Commodity Producers Index,31.78
+18,Ferrari,RACE,Automotive (Automotive and Suppliers),Italy,4556,3.8,Maranello,-6.89,41.69,2.4,1433312000,314598,MSCI World Automobiles Index,-48.96,42.07,,,,,,,Utilities,MSCI World Utilities Index,-6.99
+22,Dassault Group,DSY.PA,Aerospace & Defense,France,12371,4,VÂŽlizy-Villacoublay,-24.15,12.17,2.8,1483500032,119917,MSCI World Aerospace and Defense Index,12.86,-37.01,,,,,,,Aerospace & Defense,MSCI World Aerospace and Defense Index,12.86
+25,Mercedes-Benz Group,MBG.DE,Automotive (Automotive and Suppliers),Germany,172425,3.9,Stuttgart,-9.66,16.77,1.8,21283999744,123439,MSCI World Automobiles Index,-48.96,39.3,,,,,,,"Food, Soft Beverages, Alcohol & Tobacco","MSCI World Food, Beverage and Tobacco Index",-0.66
+27,Intuit,INTU,"IT, Internet, Software & Services",United States,14200,4.5,Mountain View,-28.51,14.56,1.9,3190000128,224647,MSCI World Information Technology Index,-30.79,2.28,,,,,,,Media & Advertising,MSCI ACWI Media and Entertainment Index,-41.93
+28,Safran,SAF.PA,Aerospace & Defense,France,76800,3.8,Paris,9.56,-37.16,2,3168000000,41250,MSCI World Aerospace and Defense Index,12.86,-3.3,,,,,,,,,
+29,Pfizer,PFE,Drugs & Biotechnology,United States,79000,4.1,New York,-14.57,35.51,2.4,44754001920,566506,"MSCI World Pharmaceuticals, Biotechnology and Life Sciences Index",-0.61,-13.96,,,,,,,,,
+30,JD.com,9618.HK,Retail and Wholesale,China,298717,3.7,Beijing,-15.89,0.44,1.6,19899000832,66614,MSCI World Food & Staples Retailing Index,-11.53,-4.36,,,,,,,,,
+32,Coca-Cola,KO,"Food, Soft Beverages, Alcohol & Tobacco",United States,79000,4.1,Atlanta,1.82,41.03,2.1,13530999808,171278,"MSCI World Food, Beverage and Tobacco Index",-0.66,2.48,,,,,,,,,
+34,Honda Motor,7267.T,Automotive (Automotive and Suppliers),Japan,211374,3.9,Tokyo,-10.67,6.65,2.1,2.18174E+12,10321709,MSCI World Automobiles Index,-48.96,38.29,,,,,,,,,
+35,3M,MMM,Conglomerate,United States,95000,3.8,Saint Paul,-28.67,45.93,3.2,6968999936,73357,MSCI World Index,-17.73,-10.94,,,,,,,,,
+36,Yamaha,7272.T,"Engineering, Manufacturing",Japan,19895,3.6,Hamamatsu,3.42,16.98,2.3,2.58781E+11,13007338,MSCI World Industrials Index,-13.2,16.62,,,,,,,,,
+37,Nike,NKE,"Clothing, Shoes, Sports Equipment",United States,73300,4.1,Beaverton,-14.47,37.32,2.2,7336999936,100095,MSCI World Consumer Durables & Apparel,-26.29,11.82,,,,,,,,,
+38,Siemens,SIE.DE,"Engineering, Manufacturing",Germany,303000,4.1,Munich,-7.49,8.5,2.1,9939999744,32805,MSCI World Industrials Index,-13.2,5.71,,,,,,,,,
+39,Puma,PUM.DE,"Clothing, Shoes, Sports Equipment",Germany,14000,4.1,Herzogenaurach,-33.42,16.98,2,795600000,56828,MSCI World Consumer Durables & Apparel,-26.29,-7.13,,,,,,,,,
+40,UKG,KRO,"IT, Internet, Software & Services",United States,15000,4,Weston,-29.86,18.34,3.3,250500000,16700,MSCI World Information Technology Index,-30.79,0.93,,,,,,,,,
+42,Marriott International,MAR,Travel & Leisure      ,United States,120000,4,Bethesda,-3.67,217.36,2.6,3350000128,27916,"MSCI World Hotels, Restaurants and Leisure Index",-15.27,11.6,,,,,,,,,
+43,Northrop Grumman,NOC,Aerospace & Defense,United States,90000,4,Falls Church,23.97,43.58,2.3,8579999744,95333,MSCI World Aerospace and Defense Index,12.86,11.11,,,,,,,,,
+44,Volkswagen Group,VOW.DE,Automotive (Automotive and Suppliers),Germany,668000,4.1,Wolfsburg,-41.29,10.19,2,30232999936,45258,MSCI World Automobiles Index,-48.96,7.67,,,,,,,,,
+45,PayPal,PYPL,Banking and Financial Services,United States,30900,4,San Jose,-56.61,10.86,2.1,4771999744,154433,MSCI ACWI Financials Index,-9.23,-47.38,,,,,,,,,
+46,Saudi Arabian Oil Company (Saudi Aramco),2222.SR,"Construction, Oil & Gas Operations, Mining and Chemicals",Saudi Arabia,70000,4,Dhahran,-4.54,42.83,2.9,1.19662E+12,17094556,MSCI World Commodity Producers Index,31.78,-36.32,,,,,,,,,
+47,Tencent Holdings,0700.HK,"IT, Internet, Software & Services",China,112771,4.1,Shenzhen,-18.96,20.29,1.8,1.53593E+11,1361990,MSCI World Information Technology Index,-30.79,11.83,,,,,,,,,
+50,Johnson & Johnson,JNJ,Drugs & Biotechnology,United States,130000,4.2,New Brunswick,3.63,26.45,2.4,32014999552,246269,"MSCI World Pharmaceuticals, Biotechnology and Life Sciences Index",-0.61,4.24,,,,,,,,,
+51,Target,TGT,Retail and Wholesale,United States,450000,3.6,Minneapolis,-29.61,27.78,2.2,7576999936,16837,MSCI World Food & Staples Retailing Index,-11.53,-18.08,,,,,,,,,
+52,The Home Depot,HD,Retail and Wholesale,United States,30000,4,Atlanta,-14.98,1465.49,2.2,27324000256,910800,MSCI World Food & Staples Retailing Index,-11.53,-3.45,,,,,,,,,
+53,Hyatt Hotels,H,Travel & Leisure      ,United States,164000,4,Chicago,8.2,3.75,2.3,723000000,4408,"MSCI World Hotels, Restaurants and Leisure Index",-15.27,23.47,,,,,,,,,
+55,Ford Motor,F,Automotive (Automotive and Suppliers),United States,26000,4.1,Dearborn,-47.16,22.49,2.7,16682999808,641653,MSCI World Automobiles Index,-48.96,1.8,,,,,,,,,
+56,Shopify,SHOP,"IT, Internet, Software & Services",Canada,10000,3.7,Ottawa,-65.76,-31.98,2.6,-312379008,-31237,MSCI World Information Technology Index,-30.79,-34.97,,,,,,,,,
+57,Colgate-Palmolive,CL,Packaged Goods,United States,33800,3.9,New York,-6.55,203.08,2.7,4156000000,122958,MSCI World Consumer Staples Index,-6.13,-0.42,,,,,,,,,
+58,General Dynamics,GD,Aerospace & Defense,United States,100000,3.7,Reston,17.66,20.08,2.1,5321999872,53219,MSCI World Aerospace and Defense Index,12.86,4.8,,,,,,,,,
+60,MTU Aero Engines,MTX.DE,Aerospace & Defense,Germany,10000,3.9,Munich,11.42,9.04,2.1,650000000,65000,MSCI World Aerospace and Defense Index,12.86,-1.44,,,,,,,,,
+63,L'Oreal,OR.PA,Packaged Goods,France,85252,4,Clichy,-5.43,19.65,2.5,7413499904,86959,MSCI World Consumer Staples Index,-6.13,0.7,,,,,,,,,
+67,Netflix,NFLX,Media & Advertising,United States,11300,4.3,Los Gatos,-36.97,28.14,2.4,6021976064,532918,MSCI ACWI Media and Entertainment Index,-41.93,4.96,,,,,,,,,
+68,Carl-Zeiss-Stiftung,AFX.DE,"Engineering, Manufacturing",Germany,35375,3.9,Oberkochen,-13.58,15.96,2.3,419492992,11858,MSCI World Industrials Index,-13.2,-0.38,,,,,,,,,
+69,"Merck KGaA, Darmstadt, Germany and its affiliates",MRK.DE,Drugs & Biotechnology,Germany,60334,4.1,Darmstadt,2.31,14.22,1.8,6503000064,107783,"MSCI World Pharmaceuticals, Biotechnology and Life Sciences Index",-0.61,2.92,,,,,,,,,
+70,Wacker Chemie,WCH.DE,"Construction, Oil & Gas Operations, Mining and Chemicals",Germany,14400,4,Munich,-10.39,36.49,2.2,2048400000,142250,MSCI World Commodity Producers Index,31.78,-42.17,,,,,,,,,
+72,Prada,1913.HK,"Clothing, Shoes, Sports Equipment",Italy,13140,3.6,Milan,-3.24,12.63,2.2,841483008,64039,MSCI World Consumer Durables & Apparel,-26.29,23.05,,,,,,,,,
+73,General Motors,GM,Automotive (Automotive and Suppliers),United States,157000,4,Detroit,-38.77,14.56,2.2,18012999680,114732,MSCI World Automobiles Index,-48.96,10.19,,,,,,,,,
+74,T Rowe Price,TROW,Banking and Financial Services,United States,7529,3.8,Baltimore,-32.17,19.89,3.5,3268300032,434094,MSCI ACWI Financials Index,-9.23,-22.94,,,,,,,,,
+76,Alibaba Group,BABA,"IT, Internet, Software & Services",China,254941,3.8,Hangzhou,-12.45,-0.12,1.9,1.4609E+11,573034,MSCI World Information Technology Index,-30.79,18.34,,,,,,,,,
+77,Intel,INTC,"IT, Internet, Software & Services",United States,121100,4.3,Santa Clara,-45.67,14,3.3,20846000128,172138,MSCI World Information Technology Index,-30.79,-14.88,,,,,,,,,
+78,Viatris,VTRS,Drugs & Biotechnology,United States,37000,3.7,Pittsburgh,-21.64,3.99,2.6,5998499840,162121,"MSCI World Pharmaceuticals, Biotechnology and Life Sciences Index",-0.61,-21.03,,,,,,,,,
+80,Mitsubishi Electric,8058.T,"Engineering, Manufacturing",Japan,145696,3.9,Tokyo,9.47,17.49,2,1.40638E+12,9652831,MSCI World Industrials Index,-13.2,22.67,,,,,,,,,
+81,Pirelli,PIRC.MI,Automotive (Automotive and Suppliers),Italy,30690,4,Milan,-31.82,8.42,2,1228393984,40025,MSCI World Automobiles Index,-48.96,17.14,,,,,,,,,
+82,Enel,ENEL.MI,Utilities,Italy,66279,4,Rome,-19.12,6.64,2.1,14380000256,216961,MSCI World Utilities Index,-6.99,-12.13,,,,,,,,,
+85,Naver,035420.KS,"IT, Internet, Software & Services",South Korea,4696,4.1,Seoul,-43.97,3.47,2,1.7065E+12,363394133,MSCI World Information Technology Index,-30.79,-13.18,,,,,,,,,
+88,Sony,SONY,Conglomerate,Japan,108900,4.1,Tokyo,-32.46,13.46,1.2,2.01649E+12,18516868,MSCI World Index,-17.73,-14.73,,,,,,,,,
+91,Novartis,NVS,Drugs & Biotechnology,Switzerland,108000,4,Basel,-0.17,36.99,2.2,19399999488,179629,"MSCI World Pharmaceuticals, Biotechnology and Life Sciences Index",-0.61,0.44,,,,,,,,,
+92,The Hartford,HIG,Banking and Financial Services,United States,18100,4,Hartford,4.93,12.69,2.1,3324000000,183646,MSCI ACWI Financials Index,-9.23,14.16,,,,,,,,,
+93,SK Group,034730.KS,Conglomerate,South Korea,117590,3.7,Seoul,-23.28,11.65,1.5,1.77945E+13,151326414,MSCI World Index,-17.73,-5.55,,,,,,,,,
+94,De'Longhi,DLG.MI,"Engineering, Manufacturing",Italy,10000,4,Treviso,-22.58,11.61,2.5,321176000,32117,MSCI World Industrials Index,-13.2,-9.38,,,,,,,,,
+96,Mastercard,MA,Banking and Financial Services,United States,24000,4.3,Purchase,2.26,147.74,1.8,13080000512,545000,MSCI ACWI Financials Index,-9.23,11.49,,,,,,,,,
+97,Electricite de France,EDF.PA,Utilities,France,167157,4,Paris,15.94,-6.42,2.6,7233999872,43276,MSCI World Utilities Index,-6.99,22.93,,,,,,,,,
+98,Verbund,VER.VI,Utilities,Austria,3184,4.7,Vienna,-21.58,26.71,3.2,2274543104,714366,MSCI World Utilities Index,-6.99,-14.59,,,,,,,,,
+99,Panasonic,6572.T,"Engineering, Manufacturing",Japan,240198,3.8,Kadoma,-20.23,-4.54,3,791000000,3293,MSCI World Industrials Index,-13.2,-7.03,,,,,,,,,

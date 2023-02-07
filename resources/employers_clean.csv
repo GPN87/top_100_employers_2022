@@ -1,0 +1,101 @@
+RANK,NAME,TICKER,INDUSTRIES,Country,EMPLOYEES,Glassdoor Rating,City
+1,Samsung Electronics,005930.KS,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",South Kore,"266,673",3.8,Suwon
+2,Microsoft,MSFT,"IT, Internet, Software & Services",United States,"221,000",4.4,Redmond
+3,IBM,IBM,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,"250,000",4.2,Armonk
+4,Alphabet,GOOG,"IT, Internet, Software & Services",United States,"156,500",4.5,Mountain View
+5,Apple,AAPL,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,"154,000",4.1,Cupertino
+6,Delta Air Lines,DAL,Transportation and Logistics,United States,"80,000",4.2,Atlanta
+7,Costco Wholesale,COST,Retail and Wholesale,United States,"288,000",4,Issaquah
+8,Adobe,ADBE,"IT, Internet, Software & Services",United States,"25,988",4.4,San Jose
+9,Southwest Airlines,LUV,Transportation and Logistics,United States,"55,093",4.4,Dallas
+10,Dell Technologies,DELL,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,"133,000",4.3,Round Rock
+11,Lockheed Martin,LMT,Aerospace & Defense,United States,"114,000",4.1,Bethesda
+12,Cisco Systems,CSCO,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,"79,500",4.3,San Jose
+13,BMW Group,BMW.DE,Automotive (Automotive and Suppliers),Germany,"118,909",4.2,Munich
+14,Amazon,AMZN,"IT, Internet, Software & Services",United States,"1,608,000",3.8,Seattle
+15,Decathlon,none,Retail and Wholesale,France,"100,000",4,Villeneuve-d'Ascq
+16,Adidas,ADS.DE,"Clothing, Shoes, Sports Equipment",Germany,"61,401",3.9,Herzogenaurach
+17,AIRBUS,AIR.PA,Aerospace & Defense,Netherlands,"125,000",4,Toulouse
+18,Ferrari,RACE,Automotive (Automotive and Suppliers),Italy,"4,556",3.8,Maranello
+19,Fraunhofer Society,none,Healthcare & Social,Germany,"30,028",4.1,Munich
+20,Reliance Industries,RELIANCE.NS,Conglomerate,India,"230,000",3.9,Mumbai
+21,Rolex,none,"Clothing, Shoes, Sports Equipment",Switzerland,"14,000",3.9,Geneva
+22,Dassault Group,DSY.PA,Aerospace & Defense,France,"12,371",4,Vlizy-Villacoublay
+23,Huawei,none,"Telecommunications Services, Cable Supplier",China,"196,000",3.8,Shenzhen
+24,Bosch,none,Automotive (Automotive and Suppliers),Germany,"402,600",3.8,Grasbrunn
+25,Mercedes-Benz Group,MBG.DE,Automotive (Automotive and Suppliers),Germany,"172,425",3.9,Stuttgart
+26,Rossmann,none,Retail and Wholesale,Germany,"56,500",4,Burgwedel
+27,Intuit,INTU,"IT, Internet, Software & Services",United States,"14,200",4.5,Mountain View
+28,Safran,SAF.PA,Aerospace & Defense,France,"76,800",3.8,Paris
+29,Pfizer,PFE,Drugs & Biotechnology,United States,"79,000",4.1,New York
+30,JD.com,9618.HK,Retail and Wholesale,China,"298,717",3.7,Beijing
+31,IKEA,none,Retail and Wholesale,Netherlands,"208,000",3.9,Hofheim am Taunus
+32,Coca-Cola,KO,"Food, Soft Beverages, Alcohol & Tobacco",United States,"79,000",4.1,Atlanta
+33,Armani Group,none,"Clothing, Shoes, Sports Equipment",Italy,"8,000",3.7,Milan
+34,Honda Motor,7267.T,Automotive (Automotive and Suppliers),Japan,"211,374",3.9,Tokyo
+35,3M,MMM,Conglomerate,United States,"95,000",3.8,Saint Paul
+36,Yamaha,7272.T,"Engineering, Manufacturing",Japan,"19,895",3.6,Hamamatsu
+37,Nike,NKE,"Clothing, Shoes, Sports Equipment",United States,"73,300",4.1,Beaverton
+38,Siemens,SIE.DE,"Engineering, Manufacturing",Germany,"303,000",4.1,Munich
+39,Puma,PUM.DE,"Clothing, Shoes, Sports Equipment",Germany,"14,000",4.1,Herzogenaurach
+40,UKG,KRO,"IT, Internet, Software & Services",United States,"15,000",4,Weston
+41,Dr. Oetker,none,"Food, Soft Beverages, Alcohol & Tobacco",Germany,"17,900",3.9,Bielefeld
+42,Marriott International,MAR,Travel & Leisure      ,United States,"120,000",4,Bethesda
+43,Northrop Grumman,NOC,Aerospace & Defense,United States,"90,000",4,Falls Church
+44,Volkswagen Group,VOW.DE,Automotive (Automotive and Suppliers),Germany,"668,000",4.1,Wolfsburg
+45,PayPal,PYPL,Banking and Financial Services,United States,"30,900",4,San Jose
+46,Saudi Arabian Oil Company (Saudi Aramco),2222.SR,"Construction, Oil & Gas Operations, Mining and Chemicals",Saudi Arabia,"70,000",4,Dhahran
+47,Tencent Holdings,0700.HK,"IT, Internet, Software & Services",China,"112,771",4.1,Shenzhen
+48,Sanofi,SAN.PA,Drugs & Biotechnology,France,"95,000",3.9,Paris
+49,Rolls-Royce Holdings,RR.L,Aerospace & Defense,United Kingdom,"44,000",4,London
+50,Johnson & Johnson,JNJ,Drugs & Biotechnology,United States,"130,000",4.2,New Brunswick
+51,Target,TGT,Retail and Wholesale,United States,"450,000",3.6,Minneapolis
+52,The Home Depot,HD,Retail and Wholesale,United States,"30,000",4,Atlanta
+53,Hyatt Hotels,H,Travel & Leisure      ,United States,"164,000",4,Chicago
+54,Boeing,BA,Aerospace & Defense,United States,"142,000",3.8,Chicago
+55,Ford Motor,F,Automotive (Automotive and Suppliers),United States,"26,000",4.1,Dearborn
+56,Shopify,SHOP,"IT, Internet, Software & Services",Canada,"10,000",3.7,Ottawa
+57,Colgate-Palmolive,CL,Packaged Goods,United States,"33,800",3.9,New York
+58,General Dynamics,GD,Aerospace & Defense,United States,"100,000",3.7,Reston
+59,Philips,PHG,Health Care Equipment & Services,Netherlands,"78,831",4,Hanover
+60,MTU Aero Engines,MTX.DE,Aerospace & Defense,Germany,"10,000",3.9,Munich
+61,Chanel,none,"Clothing, Shoes, Sports Equipment",United Kingdom,"28,500",3.9,London
+62,Raymond James Financial,RJF,Banking and Financial Services,United States,"15,000",4.4,Toronto
+63,L'Oreal,OR.PA,Packaged Goods,France,"85,252",4,Clichy
+64,Capital One,COF,Banking and Financial Services,United States,"52,781",4.2,McLean
+65,TD Bank Group,TD,Banking and Financial Services,Canada,"90,000",3.9,Pearl River
+66,Oracle,ORCL,"IT, Internet, Software & Services",United States,"133,000",3.9,Austin
+67,Netflix,NFLX,Media & Advertising,United States,"11,300",4.3,Los Gatos
+68,Carl-Zeiss-Stiftung,AFX.DE,"Engineering, Manufacturing",Germany,"35,375",3.9,Oberkochen
+69,"Merck KGaA, Darmstadt, Germany and its affiliates",MRK.DE,Drugs & Biotechnology,Germany,"60,334",4.1,Darmstadt
+70,Wacker Chemie,WCH.DE,"Construction, Oil & Gas Operations, Mining and Chemicals",Germany,"14,400",4,Munich
+71,ENBW,EBK.DE,Utilities,Germany,"20,000",4.4,Karlsruhe
+72,Prada,1913.HK,"Clothing, Shoes, Sports Equipment",Italy,"13,140",3.6,Milan
+73,General Motors,GM,Automotive (Automotive and Suppliers),United States,"157,000",4,Detroit
+74,T Rowe Price,TROW,Banking and Financial Services,United States,"7,529",3.8,Baltimore
+75,Volvo Group,VOLCAR-B.ST,"Engineering, Manufacturing",Sweden,"95,000",4.2,Gothenburg
+76,Alibaba Group,BABA,"IT, Internet, Software & Services",China,"254,941",3.8,Hangzhou
+77,Intel,INTC,"IT, Internet, Software & Services",United States,"121,100",4.3,Santa Clara
+78,Viatris,VTRS,Drugs & Biotechnology,United States,"37,000",3.7,Pittsburgh
+79,DM,none,Retail and Wholesale,Germany,"66,076",3.8,Karlsruhe
+80,Mitsubishi Electric,8058.T,"Engineering, Manufacturing",Japan,"145,696",3.9,Tokyo
+81,Pirelli,PIRC.MI,Automotive (Automotive and Suppliers),Italy,"30,690",4,Milan
+82,Enel,ENEL.MI,Utilities,Italy,"66,279",4,Rome
+83,Kempinski Hotels,none,Travel & Leisure      ,Switzerland,"22,500",3.9,Geneva
+84,Naval Group,none,Aerospace & Defense,France,"17,373",3.8,Paris
+85,Naver,035420.KS,"IT, Internet, Software & Services",South Korea,"4,696",4.1,Seoul
+86,Meritz Financial Group,008560.KS,Banking and Financial Services,South Korea,20,5,Seoul
+87,Discover Financial Services,DFS,Banking and Financial Services,United States,"16,700",3.9,Riverwoods
+88,Sony,SONY,Conglomerate,Japan,"108,900",4.1,Tokyo
+89,STIHL,none,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Germany,"20,094",4.2,Waiblingen
+90,Michelin Group,ML.PA,Automotive (Automotive and Suppliers),France,"125,000",4,Clermont-Ferrand
+91,Novartis,NVS,Drugs & Biotechnology,Switzerland,"108,000",4,Basel
+92,The Hartford,HIG,Banking and Financial Services,United States,"18,100",4,Hartford
+93,SK Group,034730.KS,Conglomerate,South Korea,"117,590",3.7,Seoul
+94,De'Longhi,DLG.MI,"Engineering, Manufacturing",Italy,"10,000",4,Treviso
+95,DBS Bank,D05.SI,Banking and Financial Services,Singapore,"33,000",3.9,Singapore
+96,Mastercard,MA,Banking and Financial Services,United States,"24,000",4.3,Purchase
+97,Electricite de France,EDF.PA,Utilities,France,"167,157",4,Paris
+98,Verbund,VER.VI,Utilities,Austria,"3,184",4.7,Vienna
+99,Panasonic,6572.T,"Engineering, Manufacturing",Japan,"240,198",3.8,Kadoma
+100,Emirates,none,Transportation and Logistics,United Arab Emirates,"85,219",4.1,Dubai
