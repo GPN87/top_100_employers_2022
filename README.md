@@ -10,6 +10,6 @@ Our research questions were:
 
 ### Part one 
 Currently contained in the 'Section 1' notebook. Performs some basic cleaning and manipulation of the original csv file. Also merges it with Glassdoor Rating data and tests for correlation between 'Forbes Ranking' and 'Glassdoor employee rating.'
-![rankings_count_by_size](images/countbysize.png)
+![rankings_count_by_size](images/download.png)
 ### Part two
 I am currently merging 
