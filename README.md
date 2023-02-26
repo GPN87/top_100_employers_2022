@@ -10,6 +10,13 @@ Our research questions were:
 
 ### Part one 
 Currently contained in the 'Section 1' notebook. Performs some basic cleaning and manipulation of the original csv file. Also merges it with Glassdoor Rating data and tests for correlation between 'Forbes Ranking' and 'Glassdoor employee rating.'
+
 ![rankings_count_by_size](images/download.png)
+
 ### Part two
-I am currently merging 
+The notebook file 'FinanciaL_data_section_2' retrieves financial information on all public companies in the rankings using the yFinance wrapper library, which makes an unofficial API call to the yahoo finance server. A range of financial metrics are plotted against the ranking and glassdoor data for each company.
+
+![financial_analyses](images/finmetrics.png)
+
+### Part three
+Part three will explore whether external factors (such as unionisation rates, average wage, liveability) affect ranking, when looked at from HQ country.
