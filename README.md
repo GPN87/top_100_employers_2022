@@ -16,13 +16,14 @@ Currently contained in the 'Forbes_EDA' notebook. Performs some basic cleaning a
 ![rankings_count_by_size](images/download.png)
 
 ![Glassdoor vs Forbes ranking](images/GDscatter.png) 
+
 *There is no correlation between Employee Glassdoor Rating (x) and the Forbes model (y). Most companies cluster in the high 3s, low 4s, regardless of ranking.*
 
 ### Part two
 The notebook file 'FinanciaL_data_section_2' retrieves financial information on all public companies in the rankings using the yFinance wrapper library, which makes an unofficial API call to the yahoo finance server. A range of financial metrics are plotted against the ranking and glassdoor data for each company.
 
-![company_loop{Caption=Here, a For loop iterates through the dataframe and returns the relevant financial information that is printed to the screen.}](images/companyloop.png)
-
+![company_loop](images/companyloop.png)
+*Here, a For loop iterates through the dataframe and returns the relevant financial information that is printed to the screen.*
 ![financial_analyses](images/finmetrics.png)
 
 ### Part three
