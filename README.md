@@ -1,6 +1,6 @@
 # Forbes Top 100 Employers 2022 (in progress)
 ## Overview
-This repository contains an exploratory analysis of the [Forbes 2022 list] (https://www.kaggle.com/datasets/devrimtuner/worlds-best-employers-top-100) of the worlds best employers. 
+This repository contains an exploratory analysis of the [Forbes 2022 list](https://www.kaggle.com/datasets/devrimtuner/worlds-best-employers-top-100) of the worlds best employers. 
 
 It was initially submitted as a group project that required us to conduct an EDA of any public dataset to answer research questions of our choosing. I have extracted the bits of the project I worked on and am building it out to answer some further questions explained below. My intention is to combine each separate notebook in this repository into one summative analysis.
 
